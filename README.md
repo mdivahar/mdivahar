@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Divahar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on work
 - 📫 How to reach me divahar.muthupillai@gmail.com
 
 <!---
